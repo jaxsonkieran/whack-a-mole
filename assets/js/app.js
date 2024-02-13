@@ -13,3 +13,10 @@ function randomSquare() {
     let randomSquare = squares[Math.floor(Math.random() * 9)]; 
     randomSquare.classList.add('mole');
 }
+
+function moveMole() {
+    let timerId = null;
+    timerID = setInterval(randomSqaure, 500);
+}
+
+moveMole();
