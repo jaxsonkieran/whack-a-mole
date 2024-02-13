@@ -1,5 +1,4 @@
 VERY BASIC WHACK - A - MOLE GAME to help me with my PP2, with Code Institute
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Kieran Jackson,
 
